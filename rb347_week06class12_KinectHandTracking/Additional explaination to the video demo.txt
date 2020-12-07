@@ -1,0 +1,10 @@
+
+** Video DEMO Explaination ***
+
+-- > Moving hand along the x-axis changes the number of stars in the sky
+	
+	from left to right, the total number of stars increases
+
+-- > Moving hand along the y-axis changes the color of the sky
+	
+	from up to down, the color of the sky becomes darker
